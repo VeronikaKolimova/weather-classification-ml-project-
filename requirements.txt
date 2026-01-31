@@ -1,0 +1,19 @@
+# Основные библиотеки данных
+pandas==1.5.3
+numpy==1.23.5
+
+# Машинное обучение
+scikit-learn==1.2.0
+xgboost==1.7.3
+imbalanced-learn==0.10.1
+
+# Визуализация
+matplotlib==3.7.0
+seaborn==0.12.2
+
+# Работа с ноутбуками
+jupyter==1.0.0
+ipykernel==6.21.2
+
+# Утилиты
+scipy==1.10.0
