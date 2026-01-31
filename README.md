@@ -59,7 +59,7 @@ To explore the full analysis interactively, open the notebook in your browser:
 ###  Ключевые графики
 
 #### 1. ROC-кривые всех моделей
-![ROC Curves Comparison](images/roc_comparison.png)
+![ROC Curves Comparison](images/roc_curves.png)
 
 #### 2. Важность признаков (XGBoost)
 ![Feature Importance](images/feature_importance_xgb.png)
